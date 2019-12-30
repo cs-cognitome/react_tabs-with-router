@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react_tabs-with-router/static/css/main.65938976.chunk.css",
-    "main.js": "/react_tabs-with-router/static/js/main.44ed3550.chunk.js",
-    "main.js.map": "/react_tabs-with-router/static/js/main.44ed3550.chunk.js.map",
+    "main.js": "/react_tabs-with-router/static/js/main.4e5141f1.chunk.js",
+    "main.js.map": "/react_tabs-with-router/static/js/main.4e5141f1.chunk.js.map",
     "runtime~main.js": "/react_tabs-with-router/static/js/runtime~main.5858125e.js",
     "runtime~main.js.map": "/react_tabs-with-router/static/js/runtime~main.5858125e.js.map",
-    "static/js/2.5e8ea60e.chunk.js": "/react_tabs-with-router/static/js/2.5e8ea60e.chunk.js",
-    "static/js/2.5e8ea60e.chunk.js.map": "/react_tabs-with-router/static/js/2.5e8ea60e.chunk.js.map",
+    "static/js/2.5918ce14.chunk.js": "/react_tabs-with-router/static/js/2.5918ce14.chunk.js",
+    "static/js/2.5918ce14.chunk.js.map": "/react_tabs-with-router/static/js/2.5918ce14.chunk.js.map",
     "index.html": "/react_tabs-with-router/index.html",
-    "precache-manifest.01c314cb88a7725ce381e7660a59d548.js": "/react_tabs-with-router/precache-manifest.01c314cb88a7725ce381e7660a59d548.js",
+    "precache-manifest.7f293d729d6c2c62fd93f374649ff240.js": "/react_tabs-with-router/precache-manifest.7f293d729d6c2c62fd93f374649ff240.js",
     "service-worker.js": "/react_tabs-with-router/service-worker.js",
     "static/css/main.65938976.chunk.css.map": "/react_tabs-with-router/static/css/main.65938976.chunk.css.map"
   }
